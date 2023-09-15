@@ -1,1 +1,3 @@
-I will now try to pull the changes !
+# This is my first feature
+
+GET and FILTER data from the DB
